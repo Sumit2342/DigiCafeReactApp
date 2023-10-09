@@ -1,0 +1,21 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+}
+
+.logo-name {
+  font-size: 2.5rem;
+}
+
+.Navbar .navbar-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+.Navbar .link {
+  text-decoration: none;
+}
